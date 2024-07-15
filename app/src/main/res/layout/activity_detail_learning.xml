@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".learning.DetailLearningActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:text="Let's Learn About Letter "
+            android:textSize="28sp"
+            android:textColor="#393939"
+            android:textStyle="bold" />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginVertical="30sp"
+            app:autoPlay="false" />
+
+
+
+        <TextView
+            android:id="@+id/tvTheory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:textColor="#393939"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/tvSign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign "
+            android:textSize="22sp"
+            android:layout_marginStart="20sp"
+            />
+
+        <ImageView
+            android:id="@+id/signImage"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginVertical="30sp"
+            />
+
+        <TextView
+            android:id="@+id/wordDictionary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Learn the Most Common words"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="30sp"
+            android:textColor="@color/very_dark_blue"
+            />
+
+    </LinearLayout>
+
+
+</ScrollView>

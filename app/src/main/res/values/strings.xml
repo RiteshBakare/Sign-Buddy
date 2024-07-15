@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Sign Buddy</string>
+
+    <string name="letter_a">The ASL letter "A" is represented by forming a fist with your dominant hand, with your thumb placed alongside the index and middle fingers. The fist is held upright, resembling the shape of the letter "A." This hand-shape is a fundamental building block in ASL and is used as the basis for various signs.\n\n
+The movement associated with the letter "A" typically involves raising and lowering the hand slightly, emphasizing the distinctive shape. Its essential to maintain a clear and intentional hand-shape to ensure accurate communication.\n\n
+In addition to its role as a letter in the alphabet, the "A" hand-shape is frequently incorporated into signs for words that begin with the letter "A." This includes common signs like "apple," "alligator," and "airplane," where the hand-shape is combined with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_b">The ASL letter "B" is represented by forming a fist with your dominant hand, with the thumb placed between the index and middle fingers. The other fingers extend straight, creating a handshape that resembles the written letter "B." This distinctive hand-shape is a fundamental element in ASL and serves as the basis for various signs.\n\n
+The movement associated with the letter "B" typically involves a slight forward and backward motion of the hand, emphasizing the formation of the handshape. It\'s important to execute this movement with intention and clarity to convey the letter accurately.\n\n
+In addition to its role as a letter in the alphabet, the "B" handshape is frequently incorporated into signs for words that begin with the letter "B." This includes common signs like "banana," "book," and "butterfly," where the handshape is combined with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_c">The ASL letter "C" is represented by forming a fist with your dominant hand, similar to the letter "A," but with the thumb extended straight instead of alongside the fingers. This handshape creates a distinctive shape resembling the written letter "C." The hand is typically held upright with the thumb pointing upward.\n\n
+The movement associated with the letter "C" involves a circular motion of the hand, emphasizing the formation of the handshape. The circular movement can be clockwise or counterclockwise, depending on the preference or regional variation in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "C" handshape is commonly used in signs for words that begin with the letter "C." This includes signs for everyday words such as "cat," "cookie," and "car," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_d">The ASL letter "D" is represented by forming a fist with your dominant hand, similar to the letter "A" and "B," but with the thumb extended straight and positioned against the side of the index finger. This handshape creates a distinctive form resembling the written letter "D." The hand is typically held upright with the thumb pointing outward.\n\n
+The movement associated with the letter "D" involves a tapping or striking motion, where the extended thumb makes contact with the side of the index finger. This tapping motion adds emphasis to the formation of the handshape and distinguishes it from other similar handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "D" handshape is commonly used in signs for words that begin with the letter "D." This includes signs for everyday words such as "dog," "dance," and "drink," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_e">The ASL letter "E" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," and "D," but with all fingers extended straight. The handshape creates a simple and open form resembling the written letter "E." The hand is typically held upright.\n\n
+The movement associated with the letter "E" involves little to no movement of the hand itself. Instead, emphasis is placed on the clear and intentional formation of the handshape. This static nature distinguishes the "E" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "E" handshape is commonly used in signs for words that begin with the letter "E." This includes signs for everyday words such as "elephant," "eat," and "enthusiastic," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_f">The ASL letter "F" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," and "E," but with the thumb extended straight and positioned between the index and middle fingers. This handshape creates a distinctive form resembling the written letter "F." The hand is typically held upright.\n\n
+The movement associated with the letter "F" involves a forward and backward flicking motion of the hand, emphasizing the formation of the handshape. This dynamic movement sets the "F" handshape apart from other static handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "F" handshape is commonly used in signs for words that begin with the letter "F." This includes signs for everyday words such as "flower," "friend," and "fun," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_g">The ASL letter "G" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," and "F," but with the thumb extended straight and positioned against the side of the index finger. This handshape creates a unique form resembling the written letter "G." The hand is typically held upright.\n\n
+The movement associated with the letter "G" involves a circular motion of the hand, emphasizing the formation of the handshape. This circular movement distinguishes the "G" handshape from other handshapes in ASL. \n\n
+In addition to its role as a letter in the alphabet, the "G" handshape is commonly used in signs for words that begin with the letter "G." This includes signs for everyday words such as "go," "good," and "game," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_h">The ASL letter "H" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," and "G," but with the thumb extended straight and positioned alongside the index finger. This handshape creates a distinct form resembling the written letter "H." The hand is typically held upright.\n\n
+The movement associated with the letter "H" involves a horizontal or slightly diagonal motion of the hand, emphasizing the formation of the handshape. This directional movement differentiates the "H" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "H" handshape is commonly used in signs for words that begin with the letter "H." This includes signs for everyday words such as "happy," "help," and "hello," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_i">The ASL letter "I" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," and "H," but with the thumb extended straight and positioned against the side of the index finger. This handshape creates a simple and straight form resembling the written letter "I." The hand is typically held upright.\n\n
+The movement associated with the letter "I" is usually minimal or stationary, emphasizing the clear and intentional formation of the handshape. This static nature distinguishes the "I" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "I" handshape is commonly used in signs for words that begin with the letter "I." This includes signs for everyday words such as "interesting," "idea," and "important," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_j">The ASL letter "J" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," and "I," but with the thumb extended straight and positioned against the side of the index finger, forming a hook-like shape. This handshape creates a distinctive form resembling the written letter "J." The hand is typically held upright.\n\n
+The movement associated with the letter "J" involves a slight downward or diagonal motion of the hand, emphasizing the formation of the hook-like handshape. This motion differentiates the "J" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "J" handshape is commonly used in signs for words that begin with the letter "J." This includes signs for everyday words such as "jump," "joy," and "joke," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_k">The ASL letter "K" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," and "J," but with the thumb extended straight and positioned against the side of the middle finger. This handshape creates a unique form resembling the written letter "K." The hand is typically held upright.\n\n
+The movement associated with the letter "K" involves a slight forward or diagonal motion of the hand, emphasizing the formation of the handshape. This directional movement distinguishes the "K" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "K" handshape is commonly used in signs for words that begin with the letter "K." This includes signs for everyday words such as "kitchen," "kind," and "kangaroo," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_l">The ASL letter "L" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with the thumb extended straight and positioned against the side of the ring finger. This handshape creates a unique form resembling the written letter "L." The hand is typically held upright.\n\n
+The movement associated with the letter "L" often involves a straight, upward motion of the hand, emphasizing the formation of the handshape. This motion distinguishes the "L" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "L" handshape is commonly used in signs for words that begin with the letter "L." This includes signs for everyday words such as "love," "like," and "laugh," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_m">The ASL letter "M" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with the thumb extended straight and positioned against the side of the pinky finger. This handshape creates a unique form resembling the written letter "M." The hand is typically held upright.\n\n
+The movement associated with the letter "M" usually involves a series of small, upward and downward movements of the hand, emphasizing the formation of the handshape. This motion distinguishes the "M" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "M" handshape is commonly used in signs for words that begin with the letter "M." This includes signs for everyday words such as "mother," "music," and "more," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_n">The ASL letter "N" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with the thumb extended straight and positioned against the side of the index finger. This handshape creates a unique form resembling the written letter "N." The hand is typically held upright.\n\n
+The movement associated with the letter "N" often involves a straight, upward motion of the hand, emphasizing the formation of the handshape. This motion distinguishes the "N" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "N" handshape is commonly used in signs for words that begin with the letter "N." This includes signs for everyday words such as "name," "nice," and "new," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+
+    </string>
+
+    <string name="letter_o">The ASL letter "O" is represented by forming a circular shape with your dominant hand by touching the tip of your thumb to the tip of your index finger, creating a round configuration. This handshape resembles the written letter "O." The hand is typically held at chest level.\n\n
+The movement associated with the letter "O" is often stationary, focusing on the formation of the circular handshape. This static nature differentiates the "O" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "O" handshape is commonly used in signs for words that begin with the letter "O." This includes signs for everyday words such as "open," "orange," and "ocean," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_p">The ASL letter "P" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with the thumb extended straight and positioned against the side of the index finger, creating a hook-like shape. This handshape creates a distinctive form resembling the written letter "P." The hand is typically held at chest level.\n\n
+The movement associated with the letter "P" usually involves a slight forward or diagonal motion of the hand, emphasizing the formation of the hook-like handshape. This directional movement distinguishes the "P" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "P" handshape is commonly used in signs for words that begin with the letter "P." This includes signs for everyday words such as "play," "please," and "pencil," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_q">The ASL letter "Q" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with the thumb extended straight and positioned against the side of the ring finger. This handshape creates a distinctive form resembling the written letter "Q." The hand is typically held at chest level.\n\n
+The movement associated with the letter "Q" often involves a circular or semi-circular motion of the hand, emphasizing the formation of the handshape. This dynamic movement distinguishes the "Q" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "Q" handshape is less commonly used in signs for words that begin with the letter "Q" due to limited vocabulary. However, it can be integrated into signs for specialized terms, and the movement may vary based on the context.\n\n
+    </string>
+
+    <string name="letter_r">The ASL letter "R" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with the thumb extended straight and positioned against the side of the pinky finger, creating a distinctive hook-like shape. This handshape resembles the written letter "R." The hand is typically held at chest level.\n\n
+The movement associated with the letter "R" usually involves a slight forward or diagonal motion of the hand, emphasizing the formation of the hook-like handshape. This directional movement distinguishes the "R" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "R" handshape is commonly used in signs for words that begin with the letter "R." This includes signs for everyday words such as "run," "read," and "rain," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_s">The ASL letter "S" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with the thumb extended straight and positioned against the side of the index finger, creating a snake-like or serpentine shape. This handshape resembles the written letter "S." The hand is typically held at chest level.\n\n
+The movement associated with the letter "S" usually involves a sinuous or wavy motion of the hand, emphasizing the formation of the snake-like handshape. This dynamic movement distinguishes the "S" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "S" handshape is commonly used in signs for words that begin with the letter "S." This includes signs for everyday words such as "sun," "school," and "silly," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_t">The ASL letter "T" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with the thumb extended straight and positioned against the side of the index finger, creating a straight, vertical shape. This handshape resembles the written letter "T." The hand is typically held at chest level.\n\n
+The movement associated with the letter "T" often involves a vertical or slightly diagonal motion of the hand, emphasizing the formation of the straight, upright handshape. This directional movement distinguishes the "T" handshape from other handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "T" handshape is commonly used in signs for words that begin with the letter "T." This includes signs for everyday words such as "tree," "time," and "thank you," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_u">The ASL letter "U" is represented by forming a fist with your dominant hand, similar to the letters "A," "B," "D," "E," "F," "G," "H," "I," "J," and "K," but with all fingers extended straight and brought together, forming a U-shaped hand configuration. This handshape resembles the written letter "U." The hand is typically held at chest level.\n\n
+The movement associated with the letter "U" is usually stationary, emphasizing the clear and intentional formation of the U-shaped handshape. This static nature differentiates the "U" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "U" handshape is less commonly used in signs for words that begin with the letter "U." However, it may be integrated into signs for specific terms, and the movement or orientation can vary based on the context.\n\n
+    </string>
+
+    <string name="letter_v">The ASL letter "V" is represented by forming a V-shaped hand configuration with your dominant hand. To create this handshape, extend the index and middle fingers, keeping them close together, while folding down the other fingers into a closed fist. The hand is typically held at chest level.\n\n
+The movement associated with the letter "V" is often stationary, emphasizing the clear and intentional formation of the V-shaped handshape. This static nature differentiates the "V" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "V" handshape is commonly used in signs for words that begin with the letter "V." This includes signs for everyday words such as "video," "victory," and "visit," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_w">The ASL letter "W" is represented by forming a W-shaped hand configuration with your dominant hand. To create this handshape, extend the thumb, index, and middle fingers while folding down the ring and pinky fingers into a closed fist. The hand is typically held at chest level.\n\n
+The movement associated with the letter "W" is often stationary, emphasizing the clear and intentional formation of the W-shaped handshape. This static nature differentiates the "W" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "W" handshape is commonly used in signs for words that begin with the letter "W." This includes signs for everyday words such as "water," "walk," and "world," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_x">The ASL letter "X" is represented by forming an X-shaped hand configuration with your dominant hand. To create this handshape, cross your index and middle fingers while extending the thumb and folding down the ring and pinky fingers into a closed fist. The hand is typically held at chest level.\n\n
+The movement associated with the letter "X" is often stationary, emphasizing the clear and intentional formation of the X-shaped handshape. This static nature differentiates the "X" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "X" handshape is less commonly used in signs for words that begin with the letter "X" due to limited vocabulary. However, it may be integrated into signs for specialized terms, and the movement or orientation can vary based on the context.\n\n
+    </string>
+
+    <string name="letter_y">The ASL letter "Y" is represented by forming a Y-shaped hand configuration with your dominant hand. To create this handshape, extend the thumb and pinky finger while folding down the middle, ring, and index fingers into a closed fist. The hand is typically held at chest level.\n\n
+The movement associated with the letter "Y" is often stationary, emphasizing the clear and intentional formation of the Y-shaped handshape. This static nature differentiates the "Y" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "Y" handshape is commonly used in signs for words that begin with the letter "Y." This includes signs for everyday words such as "yellow," "yes," and "yogurt," where the handshape is integrated with specific movements or locations to convey meaning.\n\n
+    </string>
+
+    <string name="letter_z">The ASL letter "Z" is represented by forming a Z-shaped hand configuration with your dominant hand. To create this handshape, extend the thumb and index finger while folding down the middle, ring, and pinky fingers into a closed fist. The hand is typically held at chest level.\n\n
+The movement associated with the letter "Z" is often stationary, emphasizing the clear and intentional formation of the Z-shaped handshape. This static nature differentiates the "Z" handshape from other dynamic handshapes in ASL.\n\n
+In addition to its role as a letter in the alphabet, the "Z" handshape is less commonly used in signs for words that begin with the letter "Z" due to limited vocabulary. However, it may be integrated into signs for specialized terms, and the movement or orientation can vary based on the context.\n\n
+    </string>
+    <string name="tagline">"Let's Empowering Communication Through Sign Language"</string>
+
+
+</resources>

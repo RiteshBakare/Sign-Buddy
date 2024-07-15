@@ -1,0 +1,31 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Project exclude paths
+/openCVLibrary3413/build/
+/openCVLibrary3413/build/intermediates/javac/debug/classes/
+
+
+/openCVLibrary3413
+.\openCVLibrary3413\
+
+# code for helper class
+app\src\main\java\gmail\riteshbakare420\signbuddy\realtime\helper
+.\app\src\main\java\gmail\riteshbakare420\signbuddy\realtime\helper\
+
+# load your model in this path
+app\src\main\assets
+.\app\src\main\assets\
